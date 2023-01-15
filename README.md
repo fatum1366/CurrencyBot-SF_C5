@@ -1,1 +1,1 @@
-# CurrencyBot-SF_C5-
+Итоговый проект по ООП, курс "Python-разработчик", SkillFactory 2023
